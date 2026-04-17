@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Python Developer",
+    "company": "Infosys",
+    "skills": "python, flask, api"
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Wipro",
+    "skills": "react, javascript, html"
+  },
+  {
+    "title": "Backend Engineer",
+    "company": "TCS",
+    "skills": "java, spring, sql"
+  }
+]
